@@ -5,3 +5,5 @@ android/build/
 android/app/build/
 dist_apk/
 *.apk
+build/
+assets/
