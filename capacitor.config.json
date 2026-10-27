@@ -1,0 +1,14 @@
+{
+    "appId":  "com.generator.spotifysongs",
+    "appName":  "spotify songs",
+    "webDir":  "build",
+    "plugins":  {
+                    "SplashScreen":  {
+                                         "launchShowDuration":  300,
+                                         "launchAutoHide":  true,
+                                         "backgroundColor":  "#24d9c0",
+                                         "androidSplashResourceName":  "splash",
+                                         "androidScaleType":  "CENTER_CROP"
+                                     }
+                }
+}
