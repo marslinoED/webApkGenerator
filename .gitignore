@@ -7,3 +7,5 @@ dist_apk/
 *.apk
 build/
 assets/
+# Generated web build output
+/build/index.html

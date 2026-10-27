@@ -103,3 +103,15 @@ app/build.gradle
 
 # Keep local app Gradle configuration out of version control
 /app/build.gradle
+/app/capacitor.build.gradle
+
+
+# Generated or locally refreshed Capacitor Android files
+/app/capacitor.build.gradle
+/capacitor.settings.gradle
+/app/src/main/AndroidManifest.xml
+/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+/app/src/main/res/drawable/ic_launcher_background.xml
+/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+/app/src/main/res/values/ic_launcher_background.xml
